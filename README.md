@@ -1,7 +1,7 @@
 <img align="right" src="https://avatars.githubusercontent.com/u/9919?s=64&v=4" />
 
 # IAR Build Tools for Arm on GitHub Actions
-[![IAR project on GitHub Actions](https://github.com/iarsystems/github-actions-ci-example/actions/workflows/arm.yml/badge.svg)](https://github.com/iarsystems/github-actions-ci-example/actions/workflows/arm.yml)
+[![IAR project on GitHub Actions](https://github.com/TomohiroHayashi/github-actions-ci-example/actions/workflows/arm.yml/badge.svg)](https://github.com/TomohiroHayashi/github-actions-ci-example/actions/workflows/arm.yml)
 
 >[!WARNING]
 >The information in this repository is subject to change without notice and does not constitute a commitment by IAR. While it serves as reference model for implementing Continuous Integration with IAR Tools, IAR assumes no responsibility for any errors, omissions, or specific implementations.
@@ -40,7 +40,7 @@ For technical support contact [IAR Customer Support][url-iar-customer-support].
 
 For questions or suggestions related to this example: try the [wiki][url-repo-wiki] or check [earlier issues][url-repo-issue-old]. If those don't help, create a [new issue][url-repo-issue-new] with detailed information.
 
-[^1]: The use of the IAR Build Tools is subject to the [IAR Software License Agreement](https://github.com/iarsystems/github-actions-ci-example/blob/master/LICENSE.md) and requires a valid subscription-based activation token for operation. If you are not yet a subscriber, please [contact us](https://iar.com/about/contact) for more information.
+[^1]: The use of the IAR Build Tools is subject to the [IAR Software License Agreement](https://github.com/TomohiroHayashi/github-actions-ci-example/blob/master/LICENSE.md) and requires a valid subscription-based activation token for operation. If you are not yet a subscriber, please [contact us](https://iar.com/about/contact) for more information.
 
 <!-- links -->
 [url-iar-customer-support]: https://iar.my.site.com/mypages/s/contactsupport
@@ -50,8 +50,8 @@ For questions or suggestions related to this example: try the [wiki][url-repo-wi
 [gh-actions-url]: https://docs.github.com/en/actions
 [gh-iar-url]: https://github.com/iarsystems
 
-[url-repo]: https://github.com/iarsystems/github-actions-ci-example
-[url-repo-wiki]: https://github.com/iarsystems/github-actions-ci-example/wiki
-[url-repo-issue-new]: https://github.com/iarsystems/github-actions-ci-example/issues/new
-[url-repo-issue-old]: https://github.com/iarsystems/github-actions-ci-example/issues?q=is%3Aissue%20state%3Aopen%20OR%20state%3Aclosed
+[url-repo]: https://github.com/TomohiroHayashi/github-actions-ci-example
+[url-repo-wiki]: https://github.com/TomohiroHayashi/github-actions-ci-example/wiki
+[url-repo-issue-new]: https://github.com/TomohiroHayashi/github-actions-ci-example/issues/new
+[url-repo-issue-old]: https://github.com/TomohiroHayashi/github-actions-ci-example/issues?q=is%3Aissue%20state%3Aopen%20OR%20state%3Aclosed
 
